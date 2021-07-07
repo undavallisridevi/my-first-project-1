@@ -1,0 +1,68 @@
+
+
+ 
+div.ex{
+position: fixed;
+top: 10px;
+left: 90px;
+max-width: 175px;
+margin:auto;
+border:2px solid #00FF7F;
+
+}
+div.exa{
+position: fixed;
+top: 40px;
+left: 90px;
+max-width:175px;
+margin:auto;
+border:2px solid #00FF7F;
+}
+div.ex1{
+position: fixed;
+top: 175px;
+left: 180px;
+max-width: 440px;
+margin:auto;
+border:2px solid #00FF7F;
+}
+.button {
+  background-color: #0000FF;  border: none;  color: white;  padding: 8px 10px;  text-align: center;
+position:fixed;
+border-radius:2px;
+top:275px;
+left:75px}
+
+
+select{
+border:2px solid #00FF7F;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
